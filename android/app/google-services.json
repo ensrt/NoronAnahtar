@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662291891447",
+    "project_id": "noronanahtar",
+    "storage_bucket": "noronanahtar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662291891447:android:301d915e0163afe10fbff2",
+        "android_client_info": {
+          "package_name": "com.example.anahtar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9CCOv9Krd1Lu_2D8afRJM2fvj05bHpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662291891447:android:a5016f5f3e0008320fbff2",
+        "android_client_info": {
+          "package_name": "com.example.noronanahtar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9CCOv9Krd1Lu_2D8afRJM2fvj05bHpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
